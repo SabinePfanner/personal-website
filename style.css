@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+nav {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+}
+img {
+    witdh: auto;
+    height: 500px;
+    border-radius: 1000px;
+}
